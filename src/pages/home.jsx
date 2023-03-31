@@ -136,7 +136,7 @@ function Home() {
 
   return (
     <>
-      <Head></Head>
+      <Head> defaultTitle="Reader-Books"</Head>
       <Proxy ref={proxy} />
       <Nav />
       <div className="hometitle">
