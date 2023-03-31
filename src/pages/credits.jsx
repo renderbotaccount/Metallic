@@ -57,7 +57,10 @@ function Support() {
         <div className="itemtext">
           <Obfuscate>{t("othersMessage")}</Obfuscate>
         </div>
+        <div className="itemtext">
+          <Obfuscate>Name, improvements previously by DemonC0de(GitHub), brought back by smg2fromdiscord(Github) and thanks to that chai dude</Obfuscate>
       </div>
+     </div>
     </>
   );
 }
